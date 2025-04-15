@@ -1,0 +1,30 @@
+﻿<UserControl x:Class="CcontrolsZaxx.Container.CutomTabsViewer"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:CcontrolsZaxx.Container"
+             mc:Ignorable="d" 
+             d:DesignHeight="720" d:DesignWidth="1280">
+    <Grid x:Name="LayoutRoot" Background="White" ShowGridLines="True">
+
+        <Grid.RenderTransform>
+            <TransformGroup>
+                <ScaleTransform/>
+                <SkewTransform/>
+                <RotateTransform/>
+                <TranslateTransform x:Name="LocalTranslateTransform"/>
+            </TransformGroup>
+        </Grid.RenderTransform>
+        <Grid Grid.Row="1" Grid.Column="1">
+            <TabControl Background="Transparent" AllowDrop="True" x:Name="TabControl1" 
+                    ItemsSource="{Binding TabItemss}" MouseLeftButtonUp="TabControl1_MouseLeftButtonUp"
+                    SelectionChanged="TabControl1_Selected" SelectedIndex="{Binding SelIndex}" MouseRightButtonUp="TabControl1_MouseRightButtonUp" BorderBrush="LightCoral"/>
+        </Grid>
+        <Grid>
+            <Rectangle >
+
+            </Rectangle>
+        </Grid>
+    </Grid>
+</UserControl>

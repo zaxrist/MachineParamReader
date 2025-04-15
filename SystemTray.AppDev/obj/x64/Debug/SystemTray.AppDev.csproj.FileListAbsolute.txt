@@ -1,0 +1,15 @@
+C:\Users\int10975\source\repos\CcontrolsZax\SystemTray.AppDev\bin\x64\Debug\SystemTray.AppDev.exe.config
+C:\Users\int10975\source\repos\CcontrolsZax\SystemTray.AppDev\bin\x64\Debug\SystemTray.AppDev.exe
+C:\Users\int10975\source\repos\CcontrolsZax\SystemTray.AppDev\bin\x64\Debug\SystemTray.AppDev.pdb
+C:\Users\int10975\source\repos\CcontrolsZax\SystemTray.AppDev\bin\x64\Debug\CcontrolsZax.exe
+C:\Users\int10975\source\repos\CcontrolsZax\SystemTray.AppDev\bin\x64\Debug\CcontrolsZaxx.dll
+C:\Users\int10975\source\repos\CcontrolsZax\SystemTray.AppDev\bin\x64\Debug\CcontrolsZaxx.pdb
+C:\Users\int10975\source\repos\CcontrolsZax\SystemTray.AppDev\bin\x64\Debug\CcontrolsZax.pdb
+C:\Users\int10975\source\repos\CcontrolsZax\SystemTray.AppDev\bin\x64\Debug\CcontrolsZax.exe.config
+C:\Users\int10975\source\repos\CcontrolsZax\SystemTray.AppDev\obj\x64\Debug\SystemTray.AppDev.csproj.AssemblyReference.cache
+C:\Users\int10975\source\repos\CcontrolsZax\SystemTray.AppDev\obj\x64\Debug\SystemTray.AppDev.Properties.Resources.resources
+C:\Users\int10975\source\repos\CcontrolsZax\SystemTray.AppDev\obj\x64\Debug\SystemTray.AppDev.csproj.GenerateResource.cache
+C:\Users\int10975\source\repos\CcontrolsZax\SystemTray.AppDev\obj\x64\Debug\SystemTray.AppDev.csproj.CoreCompileInputs.cache
+C:\Users\int10975\source\repos\CcontrolsZax\SystemTray.AppDev\obj\x64\Debug\SystemTr.352E4227.Up2Date
+C:\Users\int10975\source\repos\CcontrolsZax\SystemTray.AppDev\obj\x64\Debug\SystemTray.AppDev.exe
+C:\Users\int10975\source\repos\CcontrolsZax\SystemTray.AppDev\obj\x64\Debug\SystemTray.AppDev.pdb

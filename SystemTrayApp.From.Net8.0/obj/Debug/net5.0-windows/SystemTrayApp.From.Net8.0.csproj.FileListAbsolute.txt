@@ -1,0 +1,7 @@
+C:\Users\int10975\source\repos\CcontrolsZax\SystemTrayApp.From.Net8.0\obj\Debug\net5.0-windows\SystemTrayApp.From.Net8.0.csproj.AssemblyReference.cache
+C:\Users\int10975\source\repos\CcontrolsZax\SystemTrayApp.From.Net8.0\obj\Debug\net5.0-windows\SystemTrayApp.From.Net8._0.Form1.resources
+C:\Users\int10975\source\repos\CcontrolsZax\SystemTrayApp.From.Net8.0\obj\Debug\net5.0-windows\SystemTrayApp.From.Net8.0.csproj.GenerateResource.cache
+C:\Users\int10975\source\repos\CcontrolsZax\SystemTrayApp.From.Net8.0\obj\Debug\net5.0-windows\SystemTrayApp.From.Net8.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\int10975\source\repos\CcontrolsZax\SystemTrayApp.From.Net8.0\obj\Debug\net5.0-windows\SystemTrayApp.From.Net8.0.AssemblyInfoInputs.cache
+C:\Users\int10975\source\repos\CcontrolsZax\SystemTrayApp.From.Net8.0\obj\Debug\net5.0-windows\SystemTrayApp.From.Net8.0.AssemblyInfo.cs
+C:\Users\int10975\source\repos\CcontrolsZax\SystemTrayApp.From.Net8.0\obj\Debug\net5.0-windows\SystemTrayApp.From.Net8.0.csproj.CoreCompileInputs.cache

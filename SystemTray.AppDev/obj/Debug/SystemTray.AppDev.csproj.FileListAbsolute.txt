@@ -1,0 +1,15 @@
+C:\Users\int10975\source\repos\CcontrolsZax\SystemTray.AppDev\bin\Debug\SystemTray.AppDev.exe.config
+C:\Users\int10975\source\repos\CcontrolsZax\SystemTray.AppDev\bin\Debug\SystemTray.AppDev.exe
+C:\Users\int10975\source\repos\CcontrolsZax\SystemTray.AppDev\bin\Debug\SystemTray.AppDev.pdb
+C:\Users\int10975\source\repos\CcontrolsZax\SystemTray.AppDev\bin\Debug\CcontrolsZax.exe
+C:\Users\int10975\source\repos\CcontrolsZax\SystemTray.AppDev\bin\Debug\CcontrolsZaxx.dll
+C:\Users\int10975\source\repos\CcontrolsZax\SystemTray.AppDev\bin\Debug\CcontrolsZaxx.pdb
+C:\Users\int10975\source\repos\CcontrolsZax\SystemTray.AppDev\bin\Debug\CcontrolsZax.pdb
+C:\Users\int10975\source\repos\CcontrolsZax\SystemTray.AppDev\bin\Debug\CcontrolsZax.exe.config
+C:\Users\int10975\source\repos\CcontrolsZax\SystemTray.AppDev\obj\Debug\SystemTray.AppDev.csproj.AssemblyReference.cache
+C:\Users\int10975\source\repos\CcontrolsZax\SystemTray.AppDev\obj\Debug\SystemTray.AppDev.Properties.Resources.resources
+C:\Users\int10975\source\repos\CcontrolsZax\SystemTray.AppDev\obj\Debug\SystemTray.AppDev.csproj.GenerateResource.cache
+C:\Users\int10975\source\repos\CcontrolsZax\SystemTray.AppDev\obj\Debug\SystemTray.AppDev.csproj.CoreCompileInputs.cache
+C:\Users\int10975\source\repos\CcontrolsZax\SystemTray.AppDev\obj\Debug\SystemTr.352E4227.Up2Date
+C:\Users\int10975\source\repos\CcontrolsZax\SystemTray.AppDev\obj\Debug\SystemTray.AppDev.exe
+C:\Users\int10975\source\repos\CcontrolsZax\SystemTray.AppDev\obj\Debug\SystemTray.AppDev.pdb

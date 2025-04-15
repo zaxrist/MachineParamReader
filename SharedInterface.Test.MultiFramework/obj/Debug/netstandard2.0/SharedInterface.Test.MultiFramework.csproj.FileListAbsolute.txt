@@ -1,0 +1,10 @@
+C:\Users\int10975\source\repos\CcontrolsZax\SharedInterface.Test.MultiFramework\bin\Debug\netstandard2.0\SharedInterface.Test.MultiFramework.deps.json
+C:\Users\int10975\source\repos\CcontrolsZax\SharedInterface.Test.MultiFramework\bin\Debug\netstandard2.0\SharedInterface.Test.MultiFramework.dll
+C:\Users\int10975\source\repos\CcontrolsZax\SharedInterface.Test.MultiFramework\bin\Debug\netstandard2.0\SharedInterface.Test.MultiFramework.pdb
+C:\Users\int10975\source\repos\CcontrolsZax\SharedInterface.Test.MultiFramework\obj\Debug\netstandard2.0\SharedInterface.Test.MultiFramework.csproj.AssemblyReference.cache
+C:\Users\int10975\source\repos\CcontrolsZax\SharedInterface.Test.MultiFramework\obj\Debug\netstandard2.0\SharedInterface.Test.MultiFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\int10975\source\repos\CcontrolsZax\SharedInterface.Test.MultiFramework\obj\Debug\netstandard2.0\SharedInterface.Test.MultiFramework.AssemblyInfoInputs.cache
+C:\Users\int10975\source\repos\CcontrolsZax\SharedInterface.Test.MultiFramework\obj\Debug\netstandard2.0\SharedInterface.Test.MultiFramework.AssemblyInfo.cs
+C:\Users\int10975\source\repos\CcontrolsZax\SharedInterface.Test.MultiFramework\obj\Debug\netstandard2.0\SharedInterface.Test.MultiFramework.csproj.CoreCompileInputs.cache
+C:\Users\int10975\source\repos\CcontrolsZax\SharedInterface.Test.MultiFramework\obj\Debug\netstandard2.0\SharedInterface.Test.MultiFramework.dll
+C:\Users\int10975\source\repos\CcontrolsZax\SharedInterface.Test.MultiFramework\obj\Debug\netstandard2.0\SharedInterface.Test.MultiFramework.pdb

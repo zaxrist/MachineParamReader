@@ -1,0 +1,44 @@
+﻿<UserControl x:Class="CcontrolsZaxx.CropBox.ImageReader"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:CcontrolsZaxx.CropBox"
+             xmlns:t="clr-namespace:CcontrolsZaxx.CropBox"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition/>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="30"/>
+        </Grid.RowDefinitions>
+        <Button Content="Take a ScreenShot" Command="{Binding TakeScreenShotCmd}"/>
+
+        <Grid Grid.Row="1" x:Name="WspaceGrid">
+            <Canvas x:Name="Cnvss1" Background="Transparent" MouseWheel="Cnvss1_MouseWheel" MouseDown="Cnvss1_MouseDown">
+                <Image x:Name="Imgg1" Source="{Binding ImgSource}"/>
+            </Canvas>
+            <t:CropBox Grid.Row="1" x:Name="CropBox1" BoxMoving="CropBox1_BoxMoving"/>
+            <Grid.RenderTransform>
+                <TranslateTransform x:Name="tt"></TranslateTransform>
+            </Grid.RenderTransform>
+        </Grid>
+
+        <Rectangle Fill="Black" Grid.Row="2"/>
+        <Rectangle Fill="Black" Grid.Row="3"/>
+        <Label Grid.Row="2" Content="{Binding InfoText}" Foreground="White"/>
+        <Grid Grid.Row="3">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="50"/>
+                <ColumnDefinition Width="50"/>
+                <ColumnDefinition Width="50"/>
+                <ColumnDefinition Width="50"/>
+                <ColumnDefinition Width="50"/>
+            </Grid.ColumnDefinitions>
+            <Button x:Name="HeightBtnUp" Content="Fit" Grid.Column="0" Click="HeightBtnUp_Click"/>
+            <Button x:Name="CropBtn" Content="Crop" Grid.Column="1" Click="CropBtn_Click"/>
+        </Grid>
+    </Grid>
+</UserControl>

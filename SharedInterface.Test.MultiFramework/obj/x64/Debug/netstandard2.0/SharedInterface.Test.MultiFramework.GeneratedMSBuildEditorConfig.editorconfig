@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = SharedInterface.Test.MultiFramework
+build_property.ProjectDir = C:\Users\int10975\source\repos\CcontrolsZax\SharedInterface.Test.MultiFramework\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

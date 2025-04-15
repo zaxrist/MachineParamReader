@@ -1,0 +1,33 @@
+﻿<UserControl x:Class="CcontrolsZaxx.Buttons.ButtonFlat"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:CcontrolsZaxx.Buttons"
+             mc:Ignorable="d" 
+             d:DesignHeight="50" d:DesignWidth="65" MouseEnter="UserControl_MouseEnter" MouseLeave="UserControl_MouseLeave" 
+             MouseLeftButtonDown="UserControl_MouseLeftButtonDown" MouseLeftButtonUp="UserControl_MouseLeftButtonUp"
+             MinWidth="65" MinHeight="50">
+    <Grid>
+        <Grid>
+            <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="15"/>
+        </Grid.RowDefinitions>
+            <Ellipse Grid.Row="0" Width="30" Height="30" Stroke="{Binding TextColor}" StrokeThickness="2" x:Name="Circle1"/>
+            <TextBlock Text="{Binding Textt}" Grid.Row="1" HorizontalAlignment="Center" 
+                       VerticalAlignment="Center" Foreground="{Binding TextColor}"
+                       TextWrapping="Wrap" />
+        </Grid>
+        <Rectangle Fill="White" Opacity="{Binding MouseHoverOpacity}"/>
+    </Grid>
+    <UserControl.ToolTip>
+        <ToolTip Visibility="{Binding ToolTipVisiblity}">
+            <StackPanel Orientation="Vertical">
+                <Separator Grid.Row="0" Background="Gray"/>
+                <Label Grid.Row="0" Content="{Binding ToolTipHeaderText}" FontWeight="Bold" />
+                <Label Grid.Row="1" Content="{Binding ToolTipDescText}" Visibility="{Binding TpDescTextVisibility}"/>
+            </StackPanel>
+        </ToolTip>
+    </UserControl.ToolTip>
+</UserControl>

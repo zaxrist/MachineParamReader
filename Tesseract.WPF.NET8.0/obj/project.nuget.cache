@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "X3JaQ2MhzMs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\int10975\\source\\repos\\CcontrolsZax\\Tesseract.WPF.NET8.0\\Tesseract.WPF.NET8.0.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\int10975\\.nuget\\packages\\microsoft.win32.systemevents\\9.0.0\\microsoft.win32.systemevents.9.0.0.nupkg.sha512",
+    "C:\\Users\\int10975\\.nuget\\packages\\system.drawing.common\\9.0.0\\system.drawing.common.9.0.0.nupkg.sha512",
+    "C:\\Users\\int10975\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\int10975\\.nuget\\packages\\tesseract\\5.2.0\\tesseract.5.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
