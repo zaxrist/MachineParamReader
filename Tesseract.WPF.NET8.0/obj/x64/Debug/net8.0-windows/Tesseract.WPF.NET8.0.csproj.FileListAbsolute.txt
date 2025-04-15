@@ -33,3 +33,4 @@ C:\Users\int10975\source\repos\CcontrolsZax\Tesseract.WPF.NET8.0\obj\x64\Debug\n
 C:\Users\int10975\source\repos\CcontrolsZax\Tesseract.WPF.NET8.0\obj\x64\Debug\net8.0-windows\Tesseract.WPF.NET8.0.pdb
 C:\Users\int10975\source\repos\CcontrolsZax\Tesseract.WPF.NET8.0\obj\x64\Debug\net8.0-windows\Tesseract.WPF.NET8.0.genruntimeconfig.cache
 C:\Users\int10975\source\repos\CcontrolsZax\Tesseract.WPF.NET8.0\obj\x64\Debug\net8.0-windows\ref\Tesseract.WPF.NET8.0.dll
+C:\Users\int10975\source\repos\CcontrolsZax\Tesseract.WPF.NET8.0\obj\x64\Debug\net8.0-windows\Tesseract.WPF.NET8.0.sourcelink.json

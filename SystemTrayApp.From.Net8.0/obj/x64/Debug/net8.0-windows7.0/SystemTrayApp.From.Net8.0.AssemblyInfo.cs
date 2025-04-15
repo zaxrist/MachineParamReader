@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MonitorLizard")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+48afe9c84a367865907bfc979ad96d93e2008a44")]
 [assembly: System.Reflection.AssemblyProductAttribute("MonitorLizard")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MonitorLizard")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
